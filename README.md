@@ -14,3 +14,5 @@ Java Web Application using JSP and Servlet.
 - User validation
 # web-application-3
 web application 3 project
+
+# add details of java project compilation
